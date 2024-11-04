@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="foosample2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ej2/venv_ej2/lib/python3.12/site-packages/ZConfig/tests/foosample.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

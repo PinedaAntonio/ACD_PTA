@@ -1,0 +1,80 @@
+2024-11-21 09:54:07,796 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 09:54:07,797 - ERROR - Error al insertar el videojuego 'Overwatch 2': 1146 (42S02): Table 'mi_base_datos.Videojuegos' doesn't exist
+2024-11-21 09:54:07,798 - INFO - Transacción confirmada.
+2024-11-21 09:54:07,798 - ERROR - Error al leer las videojuegos: 1146 (42S02): Table 'mi_base_datos.Videojuegos' doesn't exist
+2024-11-21 09:54:07,799 - ERROR - Error al actualizar el videojuego con ID 3: Not enough parameters for the SQL statement
+2024-11-21 09:54:07,799 - INFO - Transacción confirmada.
+2024-11-21 09:54:07,799 - INFO - videojuego con ID 1 eliminada exitosamente.
+2024-11-21 09:54:07,800 - INFO - Transacción confirmada.
+2024-11-21 09:54:07,800 - INFO - Transacción iniciada.
+2024-11-21 09:54:07,801 - ERROR - Error al insertar el videojuego 'Elden Ring': 1146 (42S02): Table 'mi_base_datos.Videojuegos' doesn't exist
+2024-11-21 09:54:07,801 - INFO - Transacción revertida.
+2024-11-21 09:54:07,802 - INFO - Conexión cerrada.
+2024-11-21 09:54:44,060 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 09:54:44,061 - INFO - Videojuego 'Overwatch 2' insertada exitosamente.
+2024-11-21 09:54:44,064 - INFO - Transacción confirmada.
+2024-11-21 09:54:44,065 - INFO - Videojuegos recuperadas:
+2024-11-21 09:54:44,065 - INFO - {'id': 6, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 09:54:44,065 - ERROR - Error al actualizar el videojuego con ID 3: Not enough parameters for the SQL statement
+2024-11-21 09:54:44,065 - INFO - Transacción confirmada.
+2024-11-21 09:54:44,066 - INFO - videojuego con ID 1 eliminada exitosamente.
+2024-11-21 09:54:44,066 - INFO - Transacción confirmada.
+2024-11-21 09:54:44,066 - INFO - Transacción iniciada.
+2024-11-21 09:54:44,067 - INFO - Videojuego 'Elden Ring' insertada exitosamente.
+2024-11-21 09:54:44,070 - INFO - Transacción revertida.
+2024-11-21 09:54:44,071 - INFO - Conexión cerrada.
+2024-11-21 09:56:12,630 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 09:56:12,630 - INFO - Videojuego 'Overwatch 2' insertada exitosamente.
+2024-11-21 09:56:12,634 - INFO - Transacción confirmada.
+2024-11-21 09:56:12,635 - INFO - Videojuegos recuperadas:
+2024-11-21 09:56:12,635 - INFO - {'id': 6, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 09:56:12,635 - INFO - {'id': 8, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 09:56:12,635 - ERROR - Error al actualizar el videojuego con ID 6: Not enough parameters for the SQL statement
+2024-11-21 09:56:12,636 - INFO - Transacción confirmada.
+2024-11-21 09:56:12,636 - INFO - videojuego con ID 1 eliminada exitosamente.
+2024-11-21 09:56:12,636 - INFO - Transacción confirmada.
+2024-11-21 09:56:12,637 - INFO - Transacción iniciada.
+2024-11-21 09:56:12,637 - INFO - Videojuego 'Elden Ring' insertada exitosamente.
+2024-11-21 09:56:12,642 - INFO - Transacción revertida.
+2024-11-21 09:56:12,643 - INFO - Conexión cerrada.
+2024-11-21 09:57:40,116 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 09:57:40,117 - INFO - Videojuego 'Overwatch 2' insertada exitosamente.
+2024-11-21 09:57:40,121 - INFO - Transacción confirmada.
+2024-11-21 09:57:40,122 - INFO - Videojuegos recuperadas:
+2024-11-21 09:57:40,122 - INFO - {'id': 6, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 09:57:40,122 - INFO - {'id': 8, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 09:57:40,122 - INFO - {'id': 10, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 09:57:40,125 - INFO - Videojuego con ID 6 actualizado exitosamente.
+2024-11-21 09:57:40,126 - INFO - Transacción confirmada.
+2024-11-21 09:57:40,126 - INFO - videojuego con ID 1 eliminada exitosamente.
+2024-11-21 09:57:40,127 - INFO - Transacción confirmada.
+2024-11-21 09:57:40,127 - INFO - Transacción iniciada.
+2024-11-21 09:57:40,128 - INFO - Videojuego 'Elden Ring' insertada exitosamente.
+2024-11-21 09:57:40,131 - INFO - Transacción revertida.
+2024-11-21 09:57:40,132 - INFO - Conexión cerrada.
+2024-11-21 10:00:33,988 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 10:00:33,989 - INFO - Videojuego 'Overwatch 2' insertada exitosamente.
+2024-11-21 10:00:33,992 - INFO - Transacción confirmada.
+2024-11-21 10:00:33,993 - INFO - Videojuegos recuperadas:
+2024-11-21 10:00:33,993 - INFO - {'id': 12, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 10:00:33,999 - INFO - Videojuego con ID 12 actualizado exitosamente.
+2024-11-21 10:00:34,000 - INFO - Transacción confirmada.
+2024-11-21 10:00:34,000 - INFO - videojuego con ID 1 eliminada exitosamente.
+2024-11-21 10:00:34,001 - INFO - Transacción confirmada.
+2024-11-21 10:00:34,002 - INFO - Transacción iniciada.
+2024-11-21 10:00:34,002 - INFO - Videojuego 'Elden Ring' insertada exitosamente.
+2024-11-21 10:00:34,006 - INFO - Transacción revertida.
+2024-11-21 10:00:34,007 - INFO - Conexión cerrada.
+2024-11-21 10:12:16,954 - INFO - Conexión exitosa a la base de datos.
+2024-11-21 10:12:16,954 - INFO - Videojuego 'Overwatch 2' insertada exitosamente.
+2024-11-21 10:12:16,959 - INFO - Transacción confirmada.
+2024-11-21 10:12:16,960 - INFO - Videojuegos recuperadas:
+2024-11-21 10:12:16,960 - INFO - {'id': 14, 'nombre': 'Overwatch 2', 'genero': 'hero shooter', 'desarrollador': 'blizzard', 'plataforma': 'pc', 'fecha_lanzamiento': '04-10-2022', 'id_tienda': 1}
+2024-11-21 10:12:16,963 - INFO - Videojuego con ID 14 actualizado exitosamente.
+2024-11-21 10:12:16,964 - INFO - Transacción confirmada.
+2024-11-21 10:12:16,964 - INFO - videojuego con ID 14 eliminada exitosamente.
+2024-11-21 10:12:16,968 - INFO - Transacción confirmada.
+2024-11-21 10:12:16,969 - INFO - Transacción iniciada.
+2024-11-21 10:12:16,969 - INFO - Videojuego 'Elden Ring' insertada exitosamente.
+2024-11-21 10:12:16,971 - INFO - Transacción revertida.
+2024-11-21 10:12:16,972 - INFO - Conexión cerrada.

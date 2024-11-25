@@ -1,0 +1,574 @@
+2024-11-25 13:23:04,540 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:23:04,541 - INFO - Transacción iniciada.
+2024-11-25 13:23:04,542 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:23:04,543 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:23:04,547 - INFO - Transacción confirmada.
+2024-11-25 13:23:04,548 - INFO - Transacción iniciada.
+2024-11-25 13:23:04,549 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:23:04,550 - INFO - Transacción confirmada.
+2024-11-25 13:23:04,550 - INFO - Transacción iniciada.
+2024-11-25 13:23:04,552 - INFO - Transacción revertida.
+2024-11-25 13:23:04,552 - INFO - Transacción iniciada.
+2024-11-25 13:23:04,553 - INFO - Transacción revertida.
+2024-11-25 13:23:04,554 - INFO - Transacción iniciada.
+2024-11-25 13:23:04,554 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:23:04,556 - INFO - Transacción confirmada.
+2024-11-25 13:23:04,556 - INFO - Transacción iniciada.
+2024-11-25 13:23:04,556 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:23:04,558 - INFO - Transacción confirmada.
+2024-11-25 13:23:04,558 - INFO - Transacción iniciada.
+2024-11-25 13:23:04,559 - INFO - Transacción revertida.
+2024-11-25 13:24:22,201 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:24:22,201 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,202 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:24:22,203 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:24:22,207 - INFO - Transacción confirmada.
+2024-11-25 13:24:22,208 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,209 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:24:22,209 - INFO - Transacción confirmada.
+2024-11-25 13:24:22,209 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,211 - INFO - Transacción revertida.
+2024-11-25 13:24:22,211 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,211 - INFO - Transacción revertida.
+2024-11-25 13:24:22,212 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,212 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:24:22,213 - INFO - Transacción confirmada.
+2024-11-25 13:24:22,213 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,213 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:24:22,214 - INFO - Transacción confirmada.
+2024-11-25 13:24:22,215 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,216 - INFO - Transacción revertida.
+2024-11-25 13:24:22,216 - INFO - Transacción iniciada.
+2024-11-25 13:24:22,218 - INFO - Transacción revertida.
+2024-11-25 13:28:41,830 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:28:41,830 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,831 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:28:41,832 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:28:41,836 - INFO - Transacción confirmada.
+2024-11-25 13:28:41,837 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,838 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:28:41,838 - INFO - Transacción confirmada.
+2024-11-25 13:28:41,838 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,839 - INFO - Transacción revertida.
+2024-11-25 13:28:41,839 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,840 - INFO - Transacción revertida.
+2024-11-25 13:28:41,840 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,840 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:28:41,841 - INFO - Transacción confirmada.
+2024-11-25 13:28:41,841 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,841 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:28:41,842 - INFO - Transacción confirmada.
+2024-11-25 13:28:41,842 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,843 - INFO - Transacción revertida.
+2024-11-25 13:28:41,844 - INFO - Transacción iniciada.
+2024-11-25 13:28:41,845 - INFO - Transacción revertida.
+2024-11-25 13:29:58,715 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:29:58,716 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,716 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:29:58,717 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:29:58,720 - INFO - Transacción confirmada.
+2024-11-25 13:29:58,721 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,722 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:29:58,722 - INFO - Transacción confirmada.
+2024-11-25 13:29:58,722 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,723 - INFO - Transacción revertida.
+2024-11-25 13:29:58,723 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,723 - INFO - Transacción revertida.
+2024-11-25 13:29:58,724 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,724 - INFO - Transacción revertida.
+2024-11-25 13:29:58,724 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,724 - INFO - Transacción revertida.
+2024-11-25 13:29:58,724 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,726 - INFO - Transacción revertida.
+2024-11-25 13:29:58,726 - INFO - Transacción iniciada.
+2024-11-25 13:29:58,727 - INFO - Transacción revertida.
+2024-11-25 13:30:13,106 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:30:13,106 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,107 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:30:13,107 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:30:13,111 - INFO - Transacción confirmada.
+2024-11-25 13:30:13,111 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,112 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:30:13,112 - INFO - Transacción confirmada.
+2024-11-25 13:30:13,112 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,113 - INFO - Transacción revertida.
+2024-11-25 13:30:13,114 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,114 - INFO - Transacción revertida.
+2024-11-25 13:30:13,114 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,114 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:30:13,115 - INFO - Transacción confirmada.
+2024-11-25 13:30:13,115 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,115 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:30:13,116 - INFO - Transacción confirmada.
+2024-11-25 13:30:13,117 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,118 - INFO - Transacción revertida.
+2024-11-25 13:30:13,118 - INFO - Transacción iniciada.
+2024-11-25 13:30:13,120 - INFO - Transacción revertida.
+2024-11-25 13:34:48,899 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:34:48,899 - INFO - Transacción iniciada.
+2024-11-25 13:34:48,900 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:34:48,901 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:34:48,905 - INFO - Transacción confirmada.
+2024-11-25 13:34:48,905 - INFO - Transacción iniciada.
+2024-11-25 13:34:48,906 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:34:48,907 - INFO - Transacción confirmada.
+2024-11-25 13:34:48,907 - INFO - Transacción iniciada.
+2024-11-25 13:34:48,908 - INFO - Transacción revertida.
+2024-11-25 13:34:48,908 - INFO - Transacción iniciada.
+2024-11-25 13:34:48,908 - INFO - Transacción revertida.
+2024-11-25 13:34:48,909 - INFO - Transacción iniciada.
+2024-11-25 13:34:48,909 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:34:48,909 - INFO - Transacción confirmada.
+2024-11-25 13:34:48,910 - INFO - Transacción iniciada.
+2024-11-25 13:34:48,911 - INFO - Transacción revertida.
+2024-11-25 13:34:48,912 - INFO - Transacción iniciada.
+2024-11-25 13:34:48,913 - INFO - Transacción revertida.
+2024-11-25 13:35:37,756 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:35:37,756 - INFO - Transacción iniciada.
+2024-11-25 13:35:37,757 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:35:37,757 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:35:37,764 - INFO - Transacción confirmada.
+2024-11-25 13:35:37,765 - INFO - Transacción iniciada.
+2024-11-25 13:35:37,766 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:35:37,766 - INFO - Transacción confirmada.
+2024-11-25 13:35:37,766 - INFO - Transacción iniciada.
+2024-11-25 13:35:37,768 - INFO - Transacción revertida.
+2024-11-25 13:35:37,768 - INFO - Transacción iniciada.
+2024-11-25 13:35:37,768 - INFO - Transacción revertida.
+2024-11-25 13:35:37,769 - INFO - Transacción iniciada.
+2024-11-25 13:35:37,769 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:35:37,770 - INFO - Transacción confirmada.
+2024-11-25 13:35:37,771 - INFO - Transacción iniciada.
+2024-11-25 13:35:37,773 - INFO - Transacción revertida.
+2024-11-25 13:35:37,773 - INFO - Transacción iniciada.
+2024-11-25 13:35:37,774 - INFO - Transacción revertida.
+2024-11-25 13:36:56,708 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:36:56,708 - INFO - Transacción iniciada.
+2024-11-25 13:36:56,709 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:36:56,710 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:36:56,712 - INFO - Transacción confirmada.
+2024-11-25 13:36:56,713 - INFO - Transacción iniciada.
+2024-11-25 13:36:56,714 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:36:56,714 - INFO - Transacción confirmada.
+2024-11-25 13:36:56,714 - INFO - Transacción iniciada.
+2024-11-25 13:36:56,715 - INFO - Transacción revertida.
+2024-11-25 13:36:56,715 - INFO - Transacción iniciada.
+2024-11-25 13:36:56,716 - INFO - Transacción revertida.
+2024-11-25 13:36:56,716 - INFO - Transacción iniciada.
+2024-11-25 13:36:56,716 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:36:56,717 - INFO - Transacción confirmada.
+2024-11-25 13:36:56,718 - INFO - Transacción iniciada.
+2024-11-25 13:36:56,719 - INFO - Transacción revertida.
+2024-11-25 13:36:56,719 - INFO - Transacción iniciada.
+2024-11-25 13:36:56,720 - INFO - Transacción revertida.
+2024-11-25 13:37:07,497 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:37:07,498 - INFO - Transacción iniciada.
+2024-11-25 13:37:07,498 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:37:07,499 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:37:07,503 - INFO - Transacción confirmada.
+2024-11-25 13:37:07,503 - INFO - Transacción iniciada.
+2024-11-25 13:37:07,504 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:37:07,504 - INFO - Transacción confirmada.
+2024-11-25 13:37:07,504 - INFO - Transacción iniciada.
+2024-11-25 13:37:07,505 - INFO - Transacción revertida.
+2024-11-25 13:37:07,505 - INFO - Transacción iniciada.
+2024-11-25 13:37:07,506 - INFO - Transacción revertida.
+2024-11-25 13:37:07,506 - INFO - Transacción iniciada.
+2024-11-25 13:37:07,506 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:37:07,507 - INFO - Transacción confirmada.
+2024-11-25 13:37:07,507 - INFO - Transacción iniciada.
+2024-11-25 13:37:07,508 - INFO - Transacción revertida.
+2024-11-25 13:37:07,508 - INFO - Transacción iniciada.
+2024-11-25 13:37:07,509 - INFO - Transacción revertida.
+2024-11-25 13:37:31,991 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:37:31,991 - INFO - Transacción iniciada.
+2024-11-25 13:37:31,992 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:37:31,993 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:37:31,996 - INFO - Transacción confirmada.
+2024-11-25 13:37:31,996 - INFO - Transacción iniciada.
+2024-11-25 13:37:31,997 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:37:31,997 - INFO - Transacción confirmada.
+2024-11-25 13:37:31,997 - INFO - Transacción iniciada.
+2024-11-25 13:37:31,998 - INFO - Transacción revertida.
+2024-11-25 13:37:31,998 - INFO - Transacción iniciada.
+2024-11-25 13:37:31,998 - INFO - Transacción revertida.
+2024-11-25 13:37:31,998 - INFO - Transacción iniciada.
+2024-11-25 13:37:31,999 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:37:32,000 - INFO - Transacción confirmada.
+2024-11-25 13:37:32,000 - INFO - Transacción iniciada.
+2024-11-25 13:37:32,001 - INFO - Transacción revertida.
+2024-11-25 13:37:32,001 - INFO - Transacción iniciada.
+2024-11-25 13:37:32,003 - INFO - Transacción revertida.
+2024-11-25 13:39:06,914 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:39:06,914 - INFO - Transacción iniciada.
+2024-11-25 13:39:06,915 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:39:06,915 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:39:06,919 - INFO - Transacción confirmada.
+2024-11-25 13:39:06,919 - INFO - Transacción iniciada.
+2024-11-25 13:39:06,920 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:39:06,920 - INFO - Transacción confirmada.
+2024-11-25 13:39:06,921 - INFO - Transacción iniciada.
+2024-11-25 13:39:06,921 - INFO - Transacción confirmada.
+2024-11-25 13:39:06,921 - INFO - Transacción iniciada.
+2024-11-25 13:39:06,922 - INFO - Transacción revertida.
+2024-11-25 13:39:06,922 - INFO - Transacción iniciada.
+2024-11-25 13:39:06,922 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:39:06,923 - INFO - Transacción confirmada.
+2024-11-25 13:39:06,923 - INFO - Transacción iniciada.
+2024-11-25 13:39:06,924 - INFO - Transacción revertida.
+2024-11-25 13:39:06,924 - INFO - Transacción iniciada.
+2024-11-25 13:39:06,925 - INFO - Transacción revertida.
+2024-11-25 13:43:10,161 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:43:10,162 - INFO - Transacción iniciada.
+2024-11-25 13:43:10,163 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:43:10,163 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:43:10,167 - INFO - Transacción confirmada.
+2024-11-25 13:43:10,167 - INFO - Transacción iniciada.
+2024-11-25 13:43:10,167 - INFO - Transacción revertida.
+2024-11-25 13:43:10,168 - INFO - Transacción iniciada.
+2024-11-25 13:43:10,168 - INFO - Transacción confirmada.
+2024-11-25 13:43:10,168 - INFO - Transacción iniciada.
+2024-11-25 13:43:10,169 - INFO - Transacción revertida.
+2024-11-25 13:43:10,169 - INFO - Transacción iniciada.
+2024-11-25 13:43:10,170 - INFO - Transacción revertida.
+2024-11-25 13:43:10,170 - INFO - Transacción iniciada.
+2024-11-25 13:43:10,171 - INFO - Transacción revertida.
+2024-11-25 13:43:10,171 - INFO - Transacción iniciada.
+2024-11-25 13:43:10,171 - INFO - Transacción revertida.
+2024-11-25 13:43:21,065 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:43:21,065 - INFO - Transacción iniciada.
+2024-11-25 13:43:21,066 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:43:21,067 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:43:21,072 - INFO - Transacción confirmada.
+2024-11-25 13:43:21,073 - INFO - Transacción iniciada.
+2024-11-25 13:43:21,073 - INFO - Transacción revertida.
+2024-11-25 13:43:21,074 - INFO - Transacción iniciada.
+2024-11-25 13:43:21,076 - INFO - Transacción confirmada.
+2024-11-25 13:43:21,076 - INFO - Transacción iniciada.
+2024-11-25 13:43:21,077 - INFO - Transacción revertida.
+2024-11-25 13:43:21,078 - INFO - Transacción iniciada.
+2024-11-25 13:43:21,081 - INFO - Transacción revertida.
+2024-11-25 13:43:21,081 - INFO - Transacción iniciada.
+2024-11-25 13:43:21,082 - INFO - Transacción revertida.
+2024-11-25 13:43:21,082 - INFO - Transacción iniciada.
+2024-11-25 13:43:21,083 - INFO - Transacción revertida.
+2024-11-25 13:43:35,816 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:43:35,819 - INFO - Transacción iniciada.
+2024-11-25 13:43:35,820 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:43:35,821 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:43:35,824 - INFO - Transacción confirmada.
+2024-11-25 13:43:35,824 - INFO - Transacción iniciada.
+2024-11-25 13:43:35,825 - INFO - Transacción revertida.
+2024-11-25 13:43:35,825 - INFO - Transacción iniciada.
+2024-11-25 13:43:35,825 - INFO - Transacción confirmada.
+2024-11-25 13:43:35,825 - INFO - Transacción iniciada.
+2024-11-25 13:43:35,826 - INFO - Transacción revertida.
+2024-11-25 13:43:35,826 - INFO - Transacción iniciada.
+2024-11-25 13:43:35,827 - INFO - Transacción revertida.
+2024-11-25 13:43:35,827 - INFO - Transacción iniciada.
+2024-11-25 13:43:35,827 - INFO - Transacción revertida.
+2024-11-25 13:43:35,827 - INFO - Transacción iniciada.
+2024-11-25 13:43:35,828 - INFO - Transacción revertida.
+2024-11-25 13:44:20,854 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:44:20,855 - INFO - Transacción iniciada.
+2024-11-25 13:44:20,856 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:44:20,856 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:44:20,861 - INFO - Transacción confirmada.
+2024-11-25 13:44:20,862 - INFO - Transacción iniciada.
+2024-11-25 13:44:20,862 - INFO - Transacción revertida.
+2024-11-25 13:44:20,862 - INFO - Transacción iniciada.
+2024-11-25 13:44:20,862 - INFO - Transacción confirmada.
+2024-11-25 13:44:20,862 - INFO - Transacción iniciada.
+2024-11-25 13:44:20,862 - INFO - Transacción revertida.
+2024-11-25 13:44:20,863 - INFO - Transacción iniciada.
+2024-11-25 13:44:20,864 - INFO - Transacción revertida.
+2024-11-25 13:44:20,864 - INFO - Transacción iniciada.
+2024-11-25 13:44:20,864 - INFO - Transacción revertida.
+2024-11-25 13:44:20,864 - INFO - Transacción iniciada.
+2024-11-25 13:44:20,864 - INFO - Transacción revertida.
+2024-11-25 13:44:49,280 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:44:49,281 - INFO - Transacción iniciada.
+2024-11-25 13:44:49,281 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:44:49,282 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:44:49,286 - INFO - Transacción confirmada.
+2024-11-25 13:44:49,287 - INFO - Transacción iniciada.
+2024-11-25 13:44:49,289 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:44:49,290 - INFO - Transacción confirmada.
+2024-11-25 13:44:49,290 - INFO - Transacción iniciada.
+2024-11-25 13:44:49,291 - INFO - Transacción confirmada.
+2024-11-25 13:44:49,291 - INFO - Transacción iniciada.
+2024-11-25 13:44:49,292 - INFO - Transacción revertida.
+2024-11-25 13:44:49,292 - INFO - Transacción iniciada.
+2024-11-25 13:44:49,294 - INFO - Transacción revertida.
+2024-11-25 13:44:49,295 - INFO - Transacción iniciada.
+2024-11-25 13:44:49,295 - INFO - Transacción revertida.
+2024-11-25 13:44:49,296 - INFO - Transacción iniciada.
+2024-11-25 13:44:49,296 - INFO - Transacción revertida.
+2024-11-25 13:45:20,158 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:45:21,359 - INFO - Transacción iniciada.
+2024-11-25 13:45:22,319 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:45:22,864 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:45:23,351 - INFO - Transacción confirmada.
+2024-11-25 13:45:26,819 - INFO - Transacción iniciada.
+2024-11-25 13:45:46,884 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:45:57,896 - INFO - Transacción confirmada.
+2024-11-25 13:46:00,342 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,002 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:46:23,003 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,004 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:46:23,005 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:46:23,011 - INFO - Transacción confirmada.
+2024-11-25 13:46:23,011 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,013 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:46:23,014 - INFO - Transacción confirmada.
+2024-11-25 13:46:23,014 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,016 - INFO - Transacción confirmada.
+2024-11-25 13:46:23,016 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,017 - INFO - Transacción revertida.
+2024-11-25 13:46:23,018 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,020 - INFO - Transacción revertida.
+2024-11-25 13:46:23,021 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,021 - INFO - Transacción revertida.
+2024-11-25 13:46:23,021 - INFO - Transacción iniciada.
+2024-11-25 13:46:23,021 - INFO - Transacción revertida.
+2024-11-25 13:47:03,170 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:47:03,170 - INFO - Transacción iniciada.
+2024-11-25 13:47:03,171 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:47:03,172 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:47:03,175 - INFO - Transacción confirmada.
+2024-11-25 13:47:03,176 - INFO - Transacción iniciada.
+2024-11-25 13:47:03,178 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:47:03,178 - INFO - Transacción confirmada.
+2024-11-25 13:47:03,179 - INFO - Transacción iniciada.
+2024-11-25 13:47:03,182 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:47:03,186 - INFO - Transacción confirmada.
+2024-11-25 13:47:03,191 - INFO - Transacción iniciada.
+2024-11-25 13:47:03,191 - INFO - Transacción revertida.
+2024-11-25 13:47:03,191 - INFO - Transacción iniciada.
+2024-11-25 13:47:03,192 - INFO - Transacción revertida.
+2024-11-25 13:47:03,193 - INFO - Transacción iniciada.
+2024-11-25 13:47:03,193 - INFO - Transacción revertida.
+2024-11-25 13:47:03,193 - INFO - Transacción iniciada.
+2024-11-25 13:47:03,194 - INFO - Transacción revertida.
+2024-11-25 13:53:58,515 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:53:58,516 - INFO - Transacción iniciada.
+2024-11-25 13:53:58,517 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:53:58,517 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:53:58,520 - INFO - Transacción confirmada.
+2024-11-25 13:53:58,521 - INFO - Transacción iniciada.
+2024-11-25 13:53:58,523 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:53:58,523 - INFO - Transacción confirmada.
+2024-11-25 13:53:58,523 - INFO - Transacción iniciada.
+2024-11-25 13:53:58,524 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:53:58,533 - INFO - Transacción confirmada.
+2024-11-25 13:53:58,533 - INFO - Transacción iniciada.
+2024-11-25 13:53:58,533 - INFO - Transacción revertida.
+2024-11-25 13:53:58,533 - INFO - Transacción iniciada.
+2024-11-25 13:53:58,534 - INFO - Transacción revertida.
+2024-11-25 13:53:58,535 - INFO - Transacción iniciada.
+2024-11-25 13:53:58,535 - INFO - Transacción revertida.
+2024-11-25 13:53:58,535 - INFO - Transacción iniciada.
+2024-11-25 13:53:58,535 - INFO - Transacción revertida.
+2024-11-25 13:54:50,058 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:54:50,058 - INFO - Transacción iniciada.
+2024-11-25 13:54:50,059 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:54:50,059 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:54:50,062 - INFO - Transacción confirmada.
+2024-11-25 13:54:50,063 - INFO - Transacción iniciada.
+2024-11-25 13:54:50,064 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:54:50,064 - INFO - Transacción confirmada.
+2024-11-25 13:54:50,064 - INFO - Transacción iniciada.
+2024-11-25 13:54:50,065 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:54:50,072 - INFO - Transacción confirmada.
+2024-11-25 13:54:50,072 - INFO - Transacción iniciada.
+2024-11-25 13:54:50,072 - INFO - Transacción revertida.
+2024-11-25 13:54:50,073 - INFO - Transacción iniciada.
+2024-11-25 13:54:50,074 - INFO - Transacción revertida.
+2024-11-25 13:54:50,075 - INFO - Transacción iniciada.
+2024-11-25 13:54:50,075 - INFO - Transacción revertida.
+2024-11-25 13:54:50,075 - INFO - Transacción iniciada.
+2024-11-25 13:54:50,075 - INFO - Transacción revertida.
+2024-11-25 13:55:09,654 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:55:09,654 - INFO - Transacción iniciada.
+2024-11-25 13:55:09,655 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:55:09,655 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:55:09,659 - INFO - Transacción confirmada.
+2024-11-25 13:55:09,659 - INFO - Transacción iniciada.
+2024-11-25 13:55:09,660 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:55:09,660 - INFO - Transacción confirmada.
+2024-11-25 13:55:09,661 - INFO - Transacción iniciada.
+2024-11-25 13:55:09,662 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:55:09,665 - INFO - Transacción confirmada.
+2024-11-25 13:55:09,665 - INFO - Transacción iniciada.
+2024-11-25 13:55:09,665 - INFO - Transacción revertida.
+2024-11-25 13:55:09,665 - INFO - Transacción iniciada.
+2024-11-25 13:55:09,667 - INFO - Transacción revertida.
+2024-11-25 13:55:09,667 - INFO - Transacción iniciada.
+2024-11-25 13:55:09,668 - INFO - Transacción revertida.
+2024-11-25 13:55:09,668 - INFO - Transacción iniciada.
+2024-11-25 13:55:09,668 - INFO - Transacción revertida.
+2024-11-25 13:55:42,701 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:55:42,701 - INFO - Transacción iniciada.
+2024-11-25 13:55:42,702 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:55:42,702 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:55:42,706 - INFO - Transacción confirmada.
+2024-11-25 13:55:42,706 - INFO - Transacción iniciada.
+2024-11-25 13:55:42,707 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:55:42,707 - INFO - Transacción confirmada.
+2024-11-25 13:55:42,707 - INFO - Transacción iniciada.
+2024-11-25 13:55:42,709 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:55:42,715 - INFO - Transacción confirmada.
+2024-11-25 13:55:42,715 - INFO - Transacción iniciada.
+2024-11-25 13:55:42,715 - INFO - Transacción revertida.
+2024-11-25 13:55:42,715 - INFO - Transacción iniciada.
+2024-11-25 13:55:42,716 - INFO - Transacción revertida.
+2024-11-25 13:55:42,717 - INFO - Transacción iniciada.
+2024-11-25 13:55:42,717 - INFO - Transacción revertida.
+2024-11-25 13:55:42,717 - INFO - Transacción iniciada.
+2024-11-25 13:55:42,717 - INFO - Transacción revertida.
+2024-11-25 13:56:03,040 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:56:03,041 - INFO - Transacción iniciada.
+2024-11-25 13:56:03,042 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:56:03,042 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:56:03,045 - INFO - Transacción confirmada.
+2024-11-25 13:56:03,045 - INFO - Transacción iniciada.
+2024-11-25 13:56:03,046 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:56:03,046 - INFO - Transacción confirmada.
+2024-11-25 13:56:03,047 - INFO - Transacción iniciada.
+2024-11-25 13:56:03,048 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:56:03,051 - INFO - Transacción confirmada.
+2024-11-25 13:56:03,052 - INFO - Transacción iniciada.
+2024-11-25 13:56:03,057 - INFO - Transacción confirmada.
+2024-11-25 13:56:03,058 - INFO - Transacción iniciada.
+2024-11-25 13:56:03,059 - INFO - Transacción revertida.
+2024-11-25 13:56:03,059 - INFO - Transacción iniciada.
+2024-11-25 13:56:03,059 - INFO - Transacción revertida.
+2024-11-25 13:56:03,060 - INFO - Transacción iniciada.
+2024-11-25 13:56:03,060 - INFO - Transacción revertida.
+2024-11-25 13:56:22,709 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:56:22,709 - INFO - Transacción iniciada.
+2024-11-25 13:56:22,710 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:56:22,710 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:56:22,713 - INFO - Transacción confirmada.
+2024-11-25 13:56:22,714 - INFO - Transacción iniciada.
+2024-11-25 13:56:22,715 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:56:22,715 - INFO - Transacción confirmada.
+2024-11-25 13:56:22,715 - INFO - Transacción iniciada.
+2024-11-25 13:56:22,717 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:56:22,723 - INFO - Transacción confirmada.
+2024-11-25 13:56:22,723 - INFO - Transacción iniciada.
+2024-11-25 13:56:22,724 - INFO - Herramienta creada: Martillo - Manual
+2024-11-25 13:56:22,725 - INFO - Herramienta creada: Taladro - Eléctrico
+2024-11-25 13:56:22,728 - INFO - Transacción confirmada.
+2024-11-25 13:56:22,729 - INFO - Transacción iniciada.
+2024-11-25 13:56:22,730 - INFO - Transacción revertida.
+2024-11-25 13:56:22,730 - INFO - Transacción iniciada.
+2024-11-25 13:56:22,730 - INFO - Transacción revertida.
+2024-11-25 13:56:22,730 - INFO - Transacción iniciada.
+2024-11-25 13:56:22,731 - INFO - Transacción revertida.
+2024-11-25 13:56:56,943 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:56:56,943 - INFO - Transacción iniciada.
+2024-11-25 13:56:56,944 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:56:56,945 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:56:56,949 - INFO - Transacción confirmada.
+2024-11-25 13:56:56,950 - INFO - Transacción iniciada.
+2024-11-25 13:56:56,951 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:56:56,952 - INFO - Transacción confirmada.
+2024-11-25 13:56:56,952 - INFO - Transacción iniciada.
+2024-11-25 13:56:56,955 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:56:56,959 - INFO - Transacción confirmada.
+2024-11-25 13:56:56,959 - INFO - Transacción iniciada.
+2024-11-25 13:56:56,960 - INFO - Herramienta creada: Martillo - Manual
+2024-11-25 13:56:56,960 - INFO - Herramienta creada: Taladro - Eléctrico
+2024-11-25 13:56:56,965 - INFO - Transacción confirmada.
+2024-11-25 13:56:56,965 - INFO - Transacción iniciada.
+2024-11-25 13:56:56,965 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:56:56,972 - INFO - Martillo - Manual(Proveedor A)
+2024-11-25 13:56:56,975 - INFO - Taladro - Eléctrico(Proveedor A)
+2024-11-25 13:56:56,976 - INFO - Martillo - Manual(Proveedor A)
+2024-11-25 13:56:56,977 - INFO - Taladro - Eléctrico(Proveedor A)
+2024-11-25 13:56:56,979 - INFO - Transacción confirmada.
+2024-11-25 13:56:56,979 - INFO - Transacción iniciada.
+2024-11-25 13:56:56,979 - INFO - Transacción revertida.
+2024-11-25 13:56:56,980 - INFO - Transacción iniciada.
+2024-11-25 13:56:56,980 - INFO - Transacción revertida.
+2024-11-25 13:58:13,304 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:58:13,304 - INFO - Transacción iniciada.
+2024-11-25 13:58:13,305 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:58:13,305 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:58:13,308 - INFO - Transacción confirmada.
+2024-11-25 13:58:13,309 - INFO - Transacción iniciada.
+2024-11-25 13:58:13,310 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:58:13,310 - INFO - Transacción confirmada.
+2024-11-25 13:58:13,310 - INFO - Transacción iniciada.
+2024-11-25 13:58:13,311 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:58:13,315 - INFO - Transacción confirmada.
+2024-11-25 13:58:13,315 - INFO - Transacción iniciada.
+2024-11-25 13:58:13,316 - INFO - Herramienta creada: Martillo - Manual
+2024-11-25 13:58:13,316 - INFO - Herramienta creada: Taladro - Eléctrico
+2024-11-25 13:58:13,321 - INFO - Transacción confirmada.
+2024-11-25 13:58:13,321 - INFO - Transacción iniciada.
+2024-11-25 13:58:13,321 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:58:13,323 - INFO - Martillo - Manual(Proveedor A)
+2024-11-25 13:58:13,324 - INFO - Taladro - Eléctrico(Proveedor A)
+2024-11-25 13:58:13,324 - INFO - Martillo - Manual(Proveedor A)
+2024-11-25 13:58:13,325 - INFO - Taladro - Eléctrico(Proveedor A)
+2024-11-25 13:58:13,326 - INFO - Martillo - Manual(Proveedor A)
+2024-11-25 13:58:13,326 - INFO - Taladro - Eléctrico(Proveedor A)
+2024-11-25 13:58:13,326 - INFO - Transacción confirmada.
+2024-11-25 13:58:13,327 - INFO - Transacción iniciada.
+2024-11-25 13:58:13,328 - INFO - Herramienta actualizada: Martillo - Reforzado
+2024-11-25 13:58:13,329 - INFO - Transacción confirmada.
+2024-11-25 13:58:13,329 - INFO - Transacción iniciada.
+2024-11-25 13:58:13,330 - INFO - Transacción revertida.
+2024-11-25 13:58:46,260 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:58:46,260 - INFO - Transacción iniciada.
+2024-11-25 13:58:46,261 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:58:46,262 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:58:46,264 - INFO - Transacción confirmada.
+2024-11-25 13:58:46,265 - INFO - Transacción iniciada.
+2024-11-25 13:58:46,266 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:58:46,266 - INFO - Transacción confirmada.
+2024-11-25 13:58:46,266 - INFO - Transacción iniciada.
+2024-11-25 13:58:46,267 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:58:46,270 - INFO - Transacción confirmada.
+2024-11-25 13:58:46,271 - INFO - Transacción iniciada.
+2024-11-25 13:58:46,271 - INFO - Herramienta creada: Martillo - Manual
+2024-11-25 13:58:46,272 - INFO - Herramienta creada: Taladro - Eléctrico
+2024-11-25 13:58:46,275 - INFO - Transacción confirmada.
+2024-11-25 13:58:46,276 - INFO - Transacción iniciada.
+2024-11-25 13:58:46,276 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:58:46,278 - INFO - Martillo - Manual(Proveedor A)
+2024-11-25 13:58:46,279 - INFO - Taladro - Eléctrico(Proveedor A)
+2024-11-25 13:58:46,279 - INFO - Transacción confirmada.
+2024-11-25 13:58:46,279 - INFO - Transacción iniciada.
+2024-11-25 13:58:46,280 - INFO - Herramienta actualizada: Martillo - Reforzado
+2024-11-25 13:58:46,281 - INFO - Transacción confirmada.
+2024-11-25 13:58:46,281 - INFO - Transacción iniciada.
+2024-11-25 13:58:46,282 - INFO - Transacción revertida.
+2024-11-25 13:59:16,797 - INFO - Conexión establecida y tablas creadas.
+2024-11-25 13:59:16,797 - INFO - Transacción iniciada.
+2024-11-25 13:59:16,798 - INFO - Proveedor creado: Proveedor A - 123-456-789
+2024-11-25 13:59:16,799 - INFO - Proveedor creado: Proveedor B - 987-654-321
+2024-11-25 13:59:16,802 - INFO - Transacción confirmada.
+2024-11-25 13:59:16,802 - INFO - Transacción iniciada.
+2024-11-25 13:59:16,803 - INFO - Proveedor actualizado: Proveedor A - 30284761V
+2024-11-25 13:59:16,803 - INFO - Transacción confirmada.
+2024-11-25 13:59:16,803 - INFO - Transacción iniciada.
+2024-11-25 13:59:16,805 - INFO - Proveedor eliminado: Proveedor B
+2024-11-25 13:59:16,808 - INFO - Transacción confirmada.
+2024-11-25 13:59:16,808 - INFO - Transacción iniciada.
+2024-11-25 13:59:16,809 - INFO - Herramienta creada: Martillo - Manual
+2024-11-25 13:59:16,810 - INFO - Herramienta creada: Taladro - Eléctrico
+2024-11-25 13:59:16,813 - INFO - Transacción confirmada.
+2024-11-25 13:59:16,814 - INFO - Transacción iniciada.
+2024-11-25 13:59:16,814 - INFO - Leyendo herramientas del proveedor: Proveedor A
+2024-11-25 13:59:16,815 - INFO - Martillo - Manual(Proveedor A)
+2024-11-25 13:59:16,816 - INFO - Taladro - Eléctrico(Proveedor A)
+2024-11-25 13:59:16,816 - INFO - Transacción confirmada.
+2024-11-25 13:59:16,817 - INFO - Transacción iniciada.
+2024-11-25 13:59:16,817 - INFO - Herramienta actualizada: Martillo - Reforzado
+2024-11-25 13:59:16,817 - INFO - Transacción confirmada.
+2024-11-25 13:59:16,818 - INFO - Transacción iniciada.
+2024-11-25 13:59:16,819 - INFO - Herramienta eliminada: Taladro
+2024-11-25 13:59:16,822 - INFO - Transacción confirmada.

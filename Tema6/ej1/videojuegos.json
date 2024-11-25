@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "The Legend of Zelda: Tears of the Kingdom",
+        "genero": "aventura",
+        "desarrollador": "nintendo",
+        "plataforma": "Switch",
+        "fecha_lanzamiento": "12-05-2023"
+    },
+    {
+        "nombre": "FIFA 24",
+        "genero": "deportes",
+        "desarrollador": "EA Sports",
+        "plataforma": "ps5",
+        "fecha_lanzamiento": "30-09-2023"
+    },
+    {
+        "nombre": "Minecraft",
+        "genero": "sandbox",
+        "desarrollador": "Mojang",
+        "plataforma": "PC",
+        "fecha_lanzamiento": "18-11-2011"
+    },
+    {
+        "nombre": "The Legend of Zelda: Tears of the Kingdom",
+        "genero": "aventura",
+        "desarrollador": "nintendo",
+        "plataforma": "Switch",
+        "fecha_lanzamiento": "12-05-2023"
+    },
+    {
+        "nombre": "FIFA 24",
+        "genero": "deportes",
+        "desarrollador": "EA Sports",
+        "plataforma": "ps5",
+        "fecha_lanzamiento": "30-09-2023"
+    },
+    {
+        "nombre": "Minecraft",
+        "genero": "sandbox",
+        "desarrollador": "Mojang",
+        "plataforma": "PC",
+        "fecha_lanzamiento": "18-11-2011"
+    }
+]

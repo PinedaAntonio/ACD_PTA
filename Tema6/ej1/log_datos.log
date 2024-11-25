@@ -1,0 +1,22 @@
+2024-11-21 08:56:52,850 - INFO - Archivo JSON cargado con éxito. Versión actual:1
+2024-11-21 08:57:08,842 - INFO - Archivo JSON cargado con éxito. Versión actual:1
+2024-11-21 09:04:06,218 - INFO - Archivo JSON cargado con éxito. Versión actual:1
+2024-11-21 09:04:06,218 - INFO - Transacción iniciada.
+2024-11-21 09:04:06,218 - INFO - Dato agregado: {'nombre': 'The Legend of Zelda: Tears of the Kingdom', 'genero': 'aventura', 'desarrollador': 'nintendo', 'plataforma': 'Switch', 'fecha_lanzamiento': '12-05-2023'}
+2024-11-21 09:04:06,218 - INFO - Dato agregado: {'nombre': 'FIFA 24', 'genero': 'deportes', 'desarrollador': 'EA Sports', 'plataforma': 'ps5', 'fecha_lanzamiento': '30-09-2023'}
+2024-11-21 09:04:06,219 - INFO - Dato agregado: {'nombre': 'Minecraft', 'genero': 'sandbox', 'desarrollador': 'Mojang', 'plataforma': 'PC', 'fecha_lanzamiento': '18-11-2011'}
+2024-11-21 09:04:06,219 - INFO - Transacción confirmada y cambios guardados.
+2024-11-21 09:04:06,219 - INFO - Configuración actualizada. Nueva ruta del archivo: videojuegos.csv
+2024-11-21 09:04:06,219 - INFO - Transacción iniciada.
+2024-11-21 09:04:06,220 - INFO - Archivo CSV guardado. Versión actual:3
+2024-11-21 09:04:06,220 - INFO - Transacción confirmada y cambios guardados.
+2024-11-21 09:07:41,298 - INFO - Archivo JSON cargado con éxito. Versión actual:1
+2024-11-21 09:07:41,298 - INFO - Transacción iniciada.
+2024-11-21 09:07:41,298 - INFO - Dato agregado: {'nombre': 'The Legend of Zelda: Tears of the Kingdom', 'genero': 'aventura', 'desarrollador': 'nintendo', 'plataforma': 'Switch', 'fecha_lanzamiento': '12-05-2023'}
+2024-11-21 09:07:41,298 - INFO - Dato agregado: {'nombre': 'FIFA 24', 'genero': 'deportes', 'desarrollador': 'EA Sports', 'plataforma': 'ps5', 'fecha_lanzamiento': '30-09-2023'}
+2024-11-21 09:07:41,298 - INFO - Dato agregado: {'nombre': 'Minecraft', 'genero': 'sandbox', 'desarrollador': 'Mojang', 'plataforma': 'PC', 'fecha_lanzamiento': '18-11-2011'}
+2024-11-21 09:07:41,299 - INFO - Transacción confirmada y cambios guardados.
+2024-11-21 09:07:41,299 - INFO - Configuración actualizada. Nueva ruta del archivo: videojuegos.csv
+2024-11-21 09:07:41,299 - INFO - Transacción iniciada.
+2024-11-21 09:07:41,299 - INFO - Archivo CSV guardado. Versión actual:3
+2024-11-21 09:07:41,299 - INFO - Transacción confirmada y cambios guardados.

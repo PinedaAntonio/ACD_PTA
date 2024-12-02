@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan P\u00e9rez",
+        "correo": "juan.perez@example.com",
+        "fecha": "2023-01-15",
+        "membres\u00eda": "Premium"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis Fern\u00e1ndez",
+        "correo": "luis.fernandez@example.com",
+        "fecha": "2023-03-10",
+        "membres\u00eda": "Premium"
+    }
+]

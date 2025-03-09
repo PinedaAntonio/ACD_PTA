@@ -112,15 +112,15 @@ if __name__ == "__main__":
     # Configurar el componente
     db_manager = DatabaseManagerDocumental(
         uri="mongodb://localhost:27017",
-        database_name="1dam",
-        collection_name="herramientas"
+        database_name="2dam",
+        collection_name="videojuegos"
     )
     db_manager.conectar()
     try:
         # Crear documentos dentro de una transacción
         db_manager.iniciar_transaccion()
-        db_manager.crear_documento({"nombre": "Martillo", "tipo": "Manual", "material": "Acero", "marca": "Truper"})
-        db_manager.crear_documento({"nombre": "Taladro", "tipo": "Eléctrico", "material": "Plástico", "marca": "Bosch"})
+        db_manager.crear_documento({"nombre": "The Legend of Zelda: Tears of the Kingdom", "genero": "aventura", "desarrollador": "nintendo", "plataforma": "Switch", "fecha_lanzamiento": "12-05-2023" })
+        db_manager.crear_documento({"nombre": "FIFA 24", "genero": "deportes", "desarrollador": "EA Sports", "plataforma": "ps5", "fecha_lanzamiento": "30-09-2023" })
         db_manager.confirmar_transaccion()
 
         # Leer todos los documentos
@@ -128,12 +128,12 @@ if __name__ == "__main__":
 
         # Actualizar un documento
         db_manager.iniciar_transaccion()
-        db_manager.actualizar_documento({"nombre": "Martillo"}, {"material": "Acero reforzado"})
+        db_manager.actualizar_documento({"nombre": "The Legend of Zelda: Tears of the Kingdom"}, {"genero": "aventura y mundo abierto"})
         db_manager.confirmar_transaccion()
 
         # Eliminar un documento
         db_manager.iniciar_transaccion()
-        db_manager.eliminar_documento({"nombre": "Taladro"})
+        db_manager.eliminar_documento({"nombre": "FIFA 24"})
         db_manager.confirmar_transaccion()
     except Exception as e:
         logging.error(f"Error general: {e}")

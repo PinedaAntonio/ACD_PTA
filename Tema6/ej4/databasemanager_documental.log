@@ -1,0 +1,31 @@
+2024-12-03 19:52:52,356 - INFO - Conectado a MongoDB: 2dam.videojuegos
+2024-12-03 19:52:52,356 - INFO - Transacción iniciada.
+2024-12-03 19:52:52,378 - INFO - Documento insertado con ID: 674f5384ea4b4973ba8de9de
+2024-12-03 19:52:52,378 - INFO - Documento insertado con ID: 674f5384ea4b4973ba8de9df
+2024-12-03 19:52:52,379 - INFO - Transacción confirmada.
+2024-12-03 19:52:52,379 - INFO - Documentos recuperados: 2
+2024-12-03 19:52:52,379 - INFO - {'_id': ObjectId('674f5384ea4b4973ba8de9de'), 'nombre': 'The Legend of Zelda: Tears of the Kingdom', 'genero': 'aventura', 'desarrollador': 'nintendo', 'plataforma': 'Switch', 'fecha_lanzamiento': '12-05-2023'}
+2024-12-03 19:52:52,380 - INFO - {'_id': ObjectId('674f5384ea4b4973ba8de9df'), 'nombre': 'FIFA 24', 'genero': 'deportes', 'desarrollador': 'EA Sports', 'plataforma': 'ps5', 'fecha_lanzamiento': '30-09-2023'}
+2024-12-03 19:52:52,380 - INFO - Transacción iniciada.
+2024-12-03 19:52:52,381 - INFO - Documento actualizado: {'nombre': 'The Legend of Zelda: Tears of the Kingdom'}
+2024-12-03 19:52:52,381 - INFO - Transacción confirmada.
+2024-12-03 19:52:52,381 - INFO - Transacción iniciada.
+2024-12-03 19:52:52,382 - INFO - Documento eliminado: {'nombre': 'FIFA 24'}
+2024-12-03 19:52:52,382 - INFO - Transacción confirmada.
+2024-12-03 19:52:52,383 - INFO - Conexión a MongoDB cerrada.
+2024-12-03 19:59:45,238 - INFO - Conectado a MongoDB: 2dam.videojuegos
+2024-12-03 19:59:45,239 - INFO - Transacción iniciada.
+2024-12-03 19:59:45,243 - INFO - Documento insertado con ID: 674f5521c725d34cbc64e0e9
+2024-12-03 19:59:45,244 - INFO - Documento insertado con ID: 674f5521c725d34cbc64e0ea
+2024-12-03 19:59:45,244 - INFO - Transacción confirmada.
+2024-12-03 19:59:45,245 - INFO - Documentos recuperados: 3
+2024-12-03 19:59:45,245 - INFO - {'_id': ObjectId('674f5384ea4b4973ba8de9de'), 'nombre': 'The Legend of Zelda: Tears of the Kingdom', 'genero': 'aventura y mundo abierto', 'desarrollador': 'nintendo', 'plataforma': 'Switch', 'fecha_lanzamiento': '12-05-2023'}
+2024-12-03 19:59:45,246 - INFO - {'_id': ObjectId('674f5521c725d34cbc64e0e9'), 'nombre': 'The Legend of Zelda: Tears of the Kingdom', 'genero': 'aventura', 'desarrollador': 'nintendo', 'plataforma': 'Switch', 'fecha_lanzamiento': '12-05-2023'}
+2024-12-03 19:59:45,246 - INFO - {'_id': ObjectId('674f5521c725d34cbc64e0ea'), 'nombre': 'FIFA 24', 'genero': 'deportes', 'desarrollador': 'EA Sports', 'plataforma': 'ps5', 'fecha_lanzamiento': '30-09-2023'}
+2024-12-03 19:59:45,246 - INFO - Transacción iniciada.
+2024-12-03 19:59:45,247 - WARNING - No se encontró documento para actualizar: {'nombre': 'The Legend of Zelda: Tears of the Kingdom'}
+2024-12-03 19:59:45,247 - INFO - Transacción confirmada.
+2024-12-03 19:59:45,247 - INFO - Transacción iniciada.
+2024-12-03 19:59:45,248 - INFO - Documento eliminado: {'nombre': 'FIFA 24'}
+2024-12-03 19:59:45,248 - INFO - Transacción confirmada.
+2024-12-03 19:59:45,248 - INFO - Conexión a MongoDB cerrada.

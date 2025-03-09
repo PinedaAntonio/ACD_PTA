@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler, OrdinalEncoder
 
 
 # Cargar el dataset
-df = pd.read_csv("used_car_dataset.csv")
+df = pd.read_csv("used_car_dataset_modified.csv")
 
 
 # Limpieza de la columna AskPrice
@@ -57,21 +57,21 @@ print("\nCorrelaciones de las variables codificadas con 'AskPrice':")
 print(corr_with_target)
 
 
-# ---- 4. Identificación de valores nulos ----
+# Identificación de valores nulos 
 print("\nValores nulos por columna:")
 print(df[["Year", "kmDriven", "Transmission", "AskPrice"]].isnull().sum())
 
 
-# ---- 5. Identificación de valores erróneos ----
-# Comprobamos valores negativos o inválidos en las variables numéricas
+# Identificación de valores erróneos
+# Comprobamos valores erróneos en las variables numéricas
 print(
-    "\nValores negativos en Year:", (df["Year"] < 1900).sum()
-)  # Un año antes de 1900 no es válido
-print("Valores negativos en kmDriven:", (df["kmDriven"] < 0).sum())
-print("Valores negativos en AskPrice:", (df["AskPrice"] < 0).sum())
+    "\nValores erróneos en Year:", (df["Year"] < 1886).sum()
+)  # Definimos el 1886 como el último año válido
+print("Valores erróneos en kmDriven:", (df["kmDriven"] < 0).sum())
+print("Valores erróneos en AskPrice:", (df["AskPrice"] < 0).sum())
 
 
-# ---- 6. Identificación de outliers ----
+# Identificación de outliers 
 def detectar_outliers_zscore(data, columna, threshold=3):
     """Detecta outliers usando el método del Z-score"""
     mean = np.mean(data[columna])
@@ -92,19 +92,19 @@ print("\nOutliers detectados en AskPrice:")
 print(detectar_outliers_zscore(df, "AskPrice"))
 
 
-# ---- 7. Tratamiento de valores nulos ----
+# Tratamiento de valores nulos 
 df[["Year", "kmDriven", "Transmission", "AskPrice"]] = df[
     ["Year", "kmDriven", "Transmission", "AskPrice"]
 ].fillna(df.median())
 
 
-# ---- 8. Tratamiento de valores erróneos ----
-df = df[df["Year"] >= 1900]  # Eliminar registros con años no válidos
+# Tratamiento de valores erróneos 
+df = df[df["Year"] >= 1886]  # Eliminar registros con años no válidos
 df = df[df["kmDriven"] >= 0]
 df = df[df["AskPrice"] >= 0]
 
 
-# ---- 9. Tratamiento de outliers ----
+# Tratamiento de outliers
 # Eliminamos los outliers basados en Z-score
 for col in ["Year", "kmDriven", "AskPrice"]:
     df = df[(np.abs((df[col] - df[col].mean()) / df[col].std()) < 3)]
